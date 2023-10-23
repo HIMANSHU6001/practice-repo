@@ -1,1 +1,2 @@
-This edited using github ui
+This is gitbash 
+I AM NEW TEXT
